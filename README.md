@@ -1,2 +1,2 @@
 # Vehicle_Control_Dsapce
-1. ROS2 for hole control and Autonomous navigation it knew that how to go but it doesn't know where to go three comes the VLM with high level understanding of the environment right from greeting to setting to the goal point and providing the reasoning performing action Justification reasoning according to the environments and surrounding with complete end to end interaction with the passenger identifying them and greeting, targeting to new place    
+   
