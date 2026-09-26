@@ -7,3 +7,5 @@ Completed dSPACE and Model-Based Design work:
 - [Dspace_HIL_Experiment](https://github.com/Challa200Santhosh/Dspace_HIL_Experiment) — analog and digital signal I/O on dSPACE SCALEXIO with ConfigurationDesk and ControlDesk
 
 **Author:** Challa Santhosh · [LinkedIn](https://www.linkedin.com/in/challa-santhosh-36693828a/) · [GitHub](https://github.com/Challa200Santhosh)
+
+tomorroe is the last date to complete it and do apply for jobs writedown the answers for the questhat recruter asked to you 
